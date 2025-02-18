@@ -1,0 +1,15 @@
+# ninja log v5
+4	1865	7056693081034974	CMakeFiles/Snake.dir/main.cpp.obj	d91265e428814aba
+9	1191	7054262783789032	CMakeFiles/Snake.dir/SnakeTextView.cpp.obj	3f7622a3138c9986
+1973	3751	7078472162763044	Snake.exe	9679611424a22e68
+4	1727	7054268822925479	CMakeFiles/Snake.dir/scoreScreen.cpp.obj	de4ebf3550553b21
+1	295	7615845486666596	build.ninja	8578596e14e3f335
+4	651	7047570296453101	CMakeFiles/Snake.dir/BoardView.cpp.obj	e9be0b2a3ba63ccf
+13	69	7045056381321703	CMakeFiles/Snake.dir/Variables.cpp.obj	52492f191bbebe60
+19	954	7046738731319348	CMakeFiles/Snake.dir/Snake.cpp.obj	cbd03c05eeb4fe21
+8	1105	7051158304344350	CMakeFiles/Snake.dir/BoardTextView.cpp.obj	10a54af21f254410
+7	1480	7074474694058353	CMakeFiles/Snake.dir/SFMLview.cpp.obj	bb9acfd186c2f99d
+5	1972	7078472144993659	CMakeFiles/Snake.dir/SFMLcontroller.cpp.obj	97af7bfcf3274572
+33	892	7052014345949651	CMakeFiles/Snake.dir/otherWindows.cpp.obj	8253b7890cab0d00
+12	864	7077538866652950	CMakeFiles/Snake.dir/Timer.cpp.obj	35c2fa68f2082d18
+1	296	7615845486666596	build.ninja	8578596e14e3f335
